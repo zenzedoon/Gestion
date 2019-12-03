@@ -17,13 +17,13 @@
   
 <body>
 	
-<header id="header"><p>Formation Exam 701: DevOps Tools Engineer | LPI...</p></header>
+<header id="header"><p>Test de fonctionnement GIT - Jenkins -SonarQube - Maeven selon CI/CD </p></header>
 	</br></br>
 
   <center> 
 	  
 	  
-	  <h1 >  Test Jenkins:)---------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
+	  <h1 >  Test Jenkins:)---------->Tout est fonctionnel |> <img src="good.png"  height="50" width="50"> </h1> 
 	  
 	  </br>
           <img src="Jenkins.png"  height="300" width="300"> 
