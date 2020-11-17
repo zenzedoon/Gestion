@@ -17,7 +17,7 @@
   
 <body>
 	
-<header id="header"><p>Test de fonctionnement GIT - Jenkins -SonarQube - Maeven selon CI/CD </p></header>
+<header id="header"><p>Test de fonctionnement GIT - Azure pipeline -SonarQube - Maeven selon CI/CD </p></header>
 	</br></br> <br>
 
   <center> 
